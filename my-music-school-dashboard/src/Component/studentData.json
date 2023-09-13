@@ -1,0 +1,45 @@
+[
+    {
+      "regNo": "001",
+      "firstName": "John",
+      "lastName": "Doe",
+      "course": "3",
+      "totalFees": "$500",
+      "regDate": "2023-09-13"
+    },
+    {
+      "regNo": "002",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "course": "2",
+      "totalFees": "$600",
+      "regDate": "2023-09-14"
+    },
+    {
+        "regNo": "003",
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "course": "4",
+        "totalFees": "$450",
+        "regDate": "2023-09-15"
+      }
+      ,
+      {
+        "regNo": "004",
+        "firstName": "Bob",
+        "lastName": "Brown",
+        "course": "4",
+        "totalFees": "$550",
+        "regDate": "2023-09-16"
+      },
+      
+      {
+        "regNo": "005",
+        "firstName": "Eva",
+        "lastName": "Wilson",
+        "course": "3",
+        "totalFees": "$700",
+        "regDate": "2023-09-17"
+      }
+  ]
+  
