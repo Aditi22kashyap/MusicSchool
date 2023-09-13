@@ -1,0 +1,43 @@
+[
+    {
+      "Name": "Piano Basics",
+      "Instructor": "John Doe",
+      "Instrument": "Piano",
+      "Total Students": 25,
+      "Price": 99.99,
+      "Status": "Active"
+    },
+    {
+      "Name": "Guitar Fundamentals",
+      "Instructor": "Jane Smith",
+      "Instrument": "Guitar",
+      "Total Students": 20,
+      "Price": 79.99,
+      "Status": "Active"
+    },
+    {
+      "Name": "Violin Masterclass",
+      "Instructor": "Michael Johnson",
+      "Instrument": "Violin",
+      "Total Students": 15,
+      "Price": 129.99,
+      "Status": "Closed"
+    },
+    {
+      "Name": "Singing 101",
+      "Instructor": "Emily Brown",
+      "Instrument": "Voice",
+      "Total Students": 30,
+      "Price": 69.99,
+      "Status": "Active"
+    },
+    {
+      "Name": "Drums for Beginners",
+      "Instructor": "David Clark",
+      "Instrument": "Drums",
+      "Total Students": 18,
+      "Price": 89.99,
+      "Status": "Active"
+    }
+  ]
+  

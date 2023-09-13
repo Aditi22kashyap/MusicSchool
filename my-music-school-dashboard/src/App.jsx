@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './index.css';
 
 import Dashboard from './Component/Dashboard'
+import Courses from './Component/Courses';
 
 function App() {
  
@@ -10,6 +11,7 @@ function App() {
     <>
       <div>
        <Dashboard/>
+       <Courses/>
       </div>
       
     </>
